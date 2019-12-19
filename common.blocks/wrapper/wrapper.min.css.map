@@ -1,1 +1,1 @@
-{"version":3,"sources":["wrapper/wrapper.sass"],"names":[],"mappings":"AAAA,SACI,WAAY,CACZ,YAAa,CACb,qBAAsB","file":"wrapper.min.css","sourcesContent":[".wrapper {\n    width: 100vw;\n    height: 100vh;\n    background-color: #fff; }\n"]}
+{"version":3,"sources":["wrapper/wrapper.sass"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SAAU,CAAG,SAEb,WAAY,CACZ,YAAa,CACb,qBAAsB","file":"wrapper.min.css","sourcesContent":["* {\n    margin: 0;\n    padding: 0; }\n.wrapper {\n    width: 100vw;\n    height: 100vh;\n    background-color: #fff; }\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["header/__text/header__text.sass"],"names":[],"mappings":"AAAA,cACI,aAAc,CACd,wBAAyB,CACzB,sCAAuC","file":"header__text.min.css","sourcesContent":[".header__text {\n    color: #111713;\n    text-transform: uppercase;\n    font: bold 29px 'Open Sans', sans-serif; }\n"]}

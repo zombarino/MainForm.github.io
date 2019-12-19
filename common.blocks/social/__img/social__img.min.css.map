@@ -1,0 +1,1 @@
+{"version":3,"sources":["social/__img/social__img.sass"],"names":[],"mappings":"AAAA,aACI,UAAW,CACX,WAAY","file":"social__img.min.css","sourcesContent":[".social__img {\n    width: 30px;\n    height: 30px; }\n"]}

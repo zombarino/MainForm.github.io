@@ -1,0 +1,1 @@
+{"version":3,"sources":["header/__logo/header__logo.sass"],"names":[],"mappings":"AAAA,cACI,UAAW","file":"header__logo.min.css","sourcesContent":[".header__logo {\n    width: 55px; }\n"]}
