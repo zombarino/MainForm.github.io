@@ -1,1 +1,1 @@
-{"version":3,"sources":["header/header.sass"],"names":[],"mappings":"AAAA,QACI,WAAY","file":"header.min.css","sourcesContent":[".header {\n    width: 100vw;\n }    // display: flex\n"]}
+{"version":3,"sources":["header/header.sass"],"names":[],"mappings":"AAAA,QACI,UAAW,CACX,WAAY,CACZ,oBAAqB","file":"header.min.css","sourcesContent":[".header {\n    width: 100%;\n    height: 80px;\n    background-color: red;\n }    // display: flex\n"]}
