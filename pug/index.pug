@@ -11,8 +11,9 @@ html(lang="en")
         .wrapper
             header(class="header")
                 img(class="header__logo" src="images/logo.png" alt="logo")
-                span(class="header__text") смарт - 
-                span(class="header__text_green") фінанс
+                .header__logoText
+                    span(class="header__text") смарт - 
+                    span(class="header__text_green") фінанс
             main(class="main")
                 h1(class="main__h1") онлайн
                     span(class="main__h1_green") форма
@@ -58,7 +59,7 @@ html(lang="en")
                             h2(class="formItem__description") додатковий дохід
                             input(type="text" class="formItem__input")
                         button(class="form__button" type='submit') отримати кредит
-                        p(class="formItem__text") Заповнюючи цю форму Ви надаєте згоду для ТОВ “СМАРТ ФІНАНС” на обробку, зберігання та використання ваших персональних данних.
+                        p(class="formItem__text") Заповнюючи цю форму Ви надаєте згоду для ТОВ<br> “СМАРТ ФІНАНС” на обробку, зберігання та<br> використання ваших персональних данних.
             footer(class='footer')
                 .footerInfo
                     p(class="footerInfo__copyright") All rights reserved &copy; 2019
