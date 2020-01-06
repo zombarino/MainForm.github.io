@@ -1,1 +1,1 @@
-{"version":3,"sources":["header/__logo/header__logo.sass"],"names":[],"mappings":"AAAA,cACI,UAAW,CAAG,0BAEd,cACI,UAAW,CAAG,CACtB,0BACI,cACI,WAAY,CAAG","file":"header__logo.min.css","sourcesContent":[".header__logo {\n    width: 55px; }\n@media (min-width: 550px) {\n    .header__logo {\n        width: 75px; } }\n@media (min-width: 800px) {\n    .header__logo {\n        width: 100px; } }\n"]}
+{"version":3,"sources":["header/__logo/header__logo.sass"],"names":[],"mappings":"AAAA,cACI,UAAW","file":"header__logo.min.css","sourcesContent":[".header__logo {\n    width: 55px; }\n"]}
