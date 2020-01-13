@@ -1,0 +1,1 @@
+{"version":3,"sources":["formItem/__description/formItem__description.sass"],"names":[],"mappings":"AAAA,uBACI,mCAAoC","file":"formItem__description.min.css","sourcesContent":[".formItem__description {\n    font-family: 'Open Sans', sans-serif; }\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["main/__h1/main__h1.sass"],"names":[],"mappings":"AAAA,UACI,wBAAyB,CACzB,iBAAkB,CAClB,qCAAsC,CACtC,aAAc","file":"main__h1.min.css","sourcesContent":[".main__h1 {\n    text-transform: uppercase;\n    text-align: center;\n    font: 400 20px 'Open Sans', sans-serif;\n    color: #111713; }\n"]}

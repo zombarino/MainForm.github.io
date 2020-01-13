@@ -1,0 +1,1 @@
+{"version":3,"sources":["formItem/__description/_green/formItem__description_green.sass"],"names":[],"mappings":"AAAA,6BACI,mCAAoC,CACpC,wBAAyB,CACzB,cAAe","file":"formItem__description_green.min.css","sourcesContent":[".formItem__description_green {\n    font-family: 'Open Sans', sans-serif;\n    text-transform: uppercase;\n    font-size: 11px; }\n"]}

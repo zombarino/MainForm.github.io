@@ -11,6 +11,7 @@
 }
 
 /*# sourceMappingURL=header.min.css.map */
+/*# sourceMappingURL=main.min.css.map */
 * {
   margin: 0;
   padding: 0;
@@ -24,6 +25,11 @@
 }
 
 /*# sourceMappingURL=wrapper.min.css.map */
+.formItem__description {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*# sourceMappingURL=formItem__description.min.css.map */
 .header__logo {
   width: 55px;
   margin-left: 15px;
@@ -43,13 +49,25 @@
 
 @media (min-width: 480px) {
   .header__logoText {
-    margin-right: 25px;
+    margin-right: 55px;
   }
 }
 
 @media (min-width: 768px) {
   .header__logoText {
-    margin: 0 auto;
+    margin-right: 30%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .header__logoText {
+    margin-right: 35%;
+  }
+}
+
+@media (min-width: 1366px) {
+  .header__logoText {
+    margin-right: 38%;
   }
 }
 
@@ -80,12 +98,27 @@
 }
 
 /*# sourceMappingURL=header__wrapper.min.css.map */
+.main__h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font: 400 20px 'Open Sans', sans-serif;
+  color: #111713;
+}
+
+/*# sourceMappingURL=main__h1.min.css.map */
 .social__img {
   width: 30px;
   height: 30px;
 }
 
 /*# sourceMappingURL=social__img.min.css.map */
+.formItem__description_green {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+
+/*# sourceMappingURL=formItem__description_green.min.css.map */
 .header__text_green {
   color: #3EB398;
   text-transform: uppercase;
@@ -99,3 +132,9 @@
 }
 
 /*# sourceMappingURL=header__text_green.min.css.map */
+/*# sourceMappingURL=main__h1-green.min.css.map */
+.main__h1_green {
+  color: #3EB398;
+}
+
+/*# sourceMappingURL=main__h1_green.min.css.map */
